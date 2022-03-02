@@ -1,1 +1,1 @@
-alx is the best community to learn from.
+This is my first readme at day 1
